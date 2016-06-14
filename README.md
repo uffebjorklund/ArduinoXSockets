@@ -9,7 +9,11 @@ The sample includes
 - custom protocol for Arduino client
 - Arduino client
 - Sensor controller (faking data from Arduino)
-- Monito controller (connect to it from Putty) 
+- Monitor controller (connect to it from Putty) 
+
+## Sample Image
+Showing Putty receiving data from the Arduino
+![Arduino XSockets Putty](https://raw.githubusercontent.com/uffebjorklund/ArduinoXSockets/master/sampleImg.PNG)
 
 ##Requirements
 - Visual Studio 2015 and .NET 4.5.
